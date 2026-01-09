@@ -1,0 +1,81 @@
+{
+    "datos_registros": [
+        {
+            "id": "1",
+            "nombre": "ana",
+            "edad": "6",
+            "genero": "Masculino",
+            "pais": "ecuador",
+            "profesion": "estudiante",
+            "fecha_registro": "2025-12-17 13:53:56.203000"
+        },
+        {
+            "id": "2",
+            "nombre": "Mateo",
+            "edad": "20",
+            "genero": "Masculino",
+            "pais": "ecuador",
+            "profesion": "estudiante",
+            "fecha_registro": "2025-12-17 13:55:03.903000"
+        },
+        {
+            "id": "3",
+            "nombre": "Mateo",
+            "edad": "20",
+            "genero": "Masculino",
+            "pais": "chile",
+            "profesion": "estudiante",
+            "fecha_registro": "2025-12-17 13:55:10.860000"
+        },
+        {
+            "id": "4",
+            "nombre": "Mariana",
+            "edad": "19",
+            "genero": "Femenino",
+            "pais": "chile",
+            "profesion": "trabajador",
+            "fecha_registro": "2025-12-17 13:55:38.780000"
+        },
+        {
+            "id": "5",
+            "nombre": "Pedro",
+            "edad": "19",
+            "genero": "Masculino",
+            "pais": "ecuador",
+            "profesion": "estudiante",
+            "fecha_registro": "2025-12-17 15:22:55.217000"
+        }
+    ],
+    "perfil_usuarios": [
+        {
+            "genero": "Masculino",
+            "edad": "6",
+            "profesion": "estudiante"
+        },
+        {
+            "genero": "Masculino",
+            "edad": "20",
+            "profesion": "estudiante"
+        },
+        {
+            "genero": "Masculino",
+            "edad": "20",
+            "profesion": "estudiante"
+        },
+        {
+            "genero": "Femenino",
+            "edad": "19",
+            "profesion": "trabajador"
+        },
+        {
+            "genero": "Masculino",
+            "edad": "19",
+            "profesion": "estudiante"
+        },
+        {
+            "genero": "Masculino",
+            "edad": "18",
+            "profesion": "trabajador"
+        }
+    ]
+}
