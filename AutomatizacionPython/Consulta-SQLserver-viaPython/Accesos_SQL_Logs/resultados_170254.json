@@ -1,0 +1,87 @@
+{
+    "archivo_origen": "devuelve-consulta.sql",
+    "fecha_ejecucion": "2026-01-09 17:02:54.015796",
+    "bloque_1": [
+        {
+            "name": "registros",
+            "create_date": "2025-12-17 12:28:40.040000"
+        }
+    ],
+    "bloque_2": [
+        {
+            "id": "1",
+            "nombre": "ana",
+            "edad": "6",
+            "genero": "Masculino",
+            "pais": "ecuador",
+            "profesion": "estudiante"
+        },
+        {
+            "id": "2",
+            "nombre": "Mateo",
+            "edad": "20",
+            "genero": "Masculino",
+            "pais": "ecuador",
+            "profesion": "estudiante"
+        },
+        {
+            "id": "3",
+            "nombre": "Mateo",
+            "edad": "20",
+            "genero": "Masculino",
+            "pais": "chile",
+            "profesion": "estudiante"
+        },
+        {
+            "id": "4",
+            "nombre": "Mariana",
+            "edad": "19",
+            "genero": "Femenino",
+            "pais": "chile",
+            "profesion": "trabajador"
+        },
+        {
+            "id": "5",
+            "nombre": "Pedro",
+            "edad": "19",
+            "genero": "Masculino",
+            "pais": "ecuador",
+            "profesion": "estudiante"
+        },
+        {
+            "id": "6",
+            "nombre": "Juan",
+            "edad": "18",
+            "genero": "Masculino",
+            "pais": "argentina",
+            "profesion": "trabajador"
+        }
+    ],
+    "bloque_3": [
+        {
+            "total_registros": "6"
+        }
+    ],
+    "bloque_4": [
+        {
+            "nombre": "Juan",
+            "fecha_registro": "2025-12-17 15:24:44.147000"
+        },
+        {
+            "nombre": "Pedro",
+            "fecha_registro": "2025-12-17 15:22:55.217000"
+        },
+        {
+            "nombre": "Mariana",
+            "fecha_registro": "2025-12-17 13:55:38.780000"
+        },
+        {
+            "nombre": "Mateo",
+            "fecha_registro": "2025-12-17 13:55:10.860000"
+        },
+        {
+            "nombre": "Mateo",
+            "fecha_registro": "2025-12-17 13:55:03.903000"
+        }
+    ]
+}
