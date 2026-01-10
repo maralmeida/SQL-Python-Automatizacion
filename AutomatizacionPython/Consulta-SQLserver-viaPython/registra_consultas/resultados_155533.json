@@ -1,10 +1,18 @@
 {
-    "archivo_origen": "devuelve-consulta.sql",
-    "fecha_ejecucion": "2026-01-09 17:02:54.015796",
+    "archivo_origen": "genera_consulta.sql",
+    "fecha_ejecucion": "2026-01-10 15:55:33.071319",
     "bloque_1": [
         {
             "name": "registros",
             "create_date": "2025-12-17 12:28:40.040000"
+        },
+        {
+            "name": "vacantes",
+            "create_date": "2026-01-09 17:23:18.003000"
+        },
+        {
+            "name": "TestAuditoria",
+            "create_date": "2026-01-09 17:43:16.383000"
         }
     ],
     "bloque_2": [
@@ -55,14 +63,26 @@
             "genero": "Masculino",
             "pais": "argentina",
             "profesion": "trabajador"
+        },
+        {
+            "id": "7",
+            "nombre": "Marina",
+            "edad": "22",
+            "genero": "M",
+            "pais": "ecuador",
+            "profesion": "doctor"
         }
     ],
     "bloque_3": [
         {
-            "total_registros": "6"
+            "total_registros": "7"
         }
     ],
     "bloque_4": [
+        {
+            "nombre": "Marina",
+            "fecha_registro": "2026-01-09 17:18:09.863000"
+        },
         {
             "nombre": "Juan",
             "fecha_registro": "2025-12-17 15:24:44.147000"
@@ -78,10 +98,6 @@
         {
             "nombre": "Mateo",
             "fecha_registro": "2025-12-17 13:55:10.860000"
-        },
-        {
-            "nombre": "Mateo",
-            "fecha_registro": "2025-12-17 13:55:03.903000"
         }
     ]
 }

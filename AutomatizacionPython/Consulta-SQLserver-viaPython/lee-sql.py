@@ -22,7 +22,7 @@ def ejecutar_maestro(ruta_sql):
             return
 
         # 2. CREAR CARPETA DE LOGS: Si no existe, la crea sola
-        carpeta_logs = "Accesos_SQL_Logs"
+        carpeta_logs = "registra_consultas"
         if not os.path.exists(carpeta_logs):
             os.makedirs(carpeta_logs)
             print(f"📂 Carpeta '{carpeta_logs}' creada para guardar resultados.")
@@ -65,4 +65,4 @@ def ejecutar_maestro(ruta_sql):
         if 'conexion' in locals(): conexion.close()
 
 # --- CÓMO USARLO ---
-ejecutar_maestro('devuelve-consulta.sql')
+ejecutar_maestro('genera_consulta.sql')
